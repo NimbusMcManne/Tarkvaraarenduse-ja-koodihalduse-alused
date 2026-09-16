@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+bash_eksperiment/data/
+bash_eksperiment/results/
